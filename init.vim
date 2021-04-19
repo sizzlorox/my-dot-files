@@ -5,6 +5,7 @@ let g:airline_powerline_fonts = 1
 let g:indentline_setColors = 0
 let g:indentline_color_term = 239
 let g:indentline_bgcolor_term = 202
+let g:blamer_enabled = 1
 
 :set number relativenumber
 :set guifont=FiraCode\ Nerd\ Font\ 12
